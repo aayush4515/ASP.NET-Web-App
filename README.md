@@ -1,6 +1,4 @@
-# ERM
-
-# Web-Based Form Development Project
+# ERM: Web-Based Form Development Project
 
 This project was built as part of my **Web Based Applications Course (Spring 2025)**. It demonstrates the development of a multi-page web application using ASP.NET Web Forms, C#, Bootstrap, and Microsoft SQL Server.  
 
