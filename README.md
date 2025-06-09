@@ -3,7 +3,7 @@
 This project was built as part of my **Web Based Applications Course (Spring 2025)**. It demonstrates the development of a multi-page web application using ASP.NET Web Forms, C#, Bootstrap, and Microsoft SQL Server.  
 
 ## 🚀 Live Demo
-Check out the deployed web application here: [**Project Demo**](<(http://e0750442.elmcsis.com/erm/Registration.aspx)>)
+Check out the deployed web application here: [**Project Demo**](http://e0750442.elmcsis.com/erm/Registration.aspx)
 
 ## 📌 Features
 - Multi-page ASP.NET Web Forms application with master pages for consistent layout.
