@@ -1,1 +1,29 @@
 # ERM
+
+# Web-Based Form Development Project
+
+This project was built as part of my **Web Based Applications Course (Spring 2025)**. It demonstrates the development of a multi-page web application using ASP.NET Web Forms, C#, Bootstrap, and Microsoft SQL Server.  
+
+## 🚀 Live Demo
+Check out the deployed web application here: [**Project Demo**](<Insert-Link-Here>)
+
+## 📌 Features
+- Multi-page ASP.NET Web Forms application with master pages for consistent layout.
+- Bootstrap styling for responsive design and enhanced user experience.
+- Form validation using ADO.NET, including both client-side and server-side checks.
+- Integration with Microsoft SQL Server for data storage and management, including full CRUD functionality.
+- Secure admin dashboard protected by a login page with username-password authentication and encrypted passwords.
+- SMTP integration via SendGrid for sending confirmation emails to users.
+
+## 🛠️ Technologies Used
+- **Frontend:** ASP.NET Web Forms, Bootstrap
+- **Backend:** C# (ADO.NET)
+- **Database:** Microsoft SQL Server
+- **Email Service:** SendGrid
+- **Authentication:** Encrypted passwords with C# backend decryption
+
+## 📂 Getting Started
+To run the project locally:  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
