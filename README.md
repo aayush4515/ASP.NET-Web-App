@@ -20,3 +20,5 @@ Check out the deployed web application here: [**Project Demo**](http://e0750442.
 - **Email Service:** SendGrid
 - **Authentication:** Encrypted passwords with C# backend decryption
 
+## 🔐 Security
+Passwords are stored in the database in encrypted form. During login, they are decrypted and validated on the server side using C# functions to ensure secure access.
