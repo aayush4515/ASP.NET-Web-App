@@ -5,6 +5,9 @@ This project was built as part of my **Web Based Applications Course (Spring 202
 ## 🚀 Live Demo
 Check out the deployed web application here: [**Project Demo**](http://e0750442.elmcsis.com/erm/Registration.aspx)
 
+> **⚠️ Note:**  
+> This web application was originally connected to a Microsoft SQL Server database hosted by the university. The database has since been deleted following the conclusion of the course, so form submissions may redirect to an error page due to the inactive database connection.
+
 ## 📌 Features
 - Multi-page ASP.NET Web Forms application with master pages for consistent layout.
 - Bootstrap styling for responsive design and enhanced user experience.
