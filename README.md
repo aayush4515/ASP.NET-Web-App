@@ -20,8 +20,3 @@ Check out the deployed web application here: [**Project Demo**](http://e0750442.
 - **Email Service:** SendGrid
 - **Authentication:** Encrypted passwords with C# backend decryption
 
-## 📂 Getting Started
-To run the project locally:  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
