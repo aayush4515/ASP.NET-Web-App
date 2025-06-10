@@ -4,6 +4,7 @@ This project was built as part of my **Web Based Applications Course (Spring 202
 
 ## 🚀 Live Demo
 Check out the deployed web application here: [**Project Demo**](http://e0750442.elmcsis.com/erm/Registration.aspx)
+Check out the login page here: [**Login Page](http://e0750442.elmcsis.com/ERM/Login.aspx)
 
 > **⚠️ Note:**  
 > This web application was originally connected to a Microsoft SQL Server database hosted by the university. The database has since been deleted following the conclusion of the course, so form submissions may redirect to an error page due to the inactive database connection.
