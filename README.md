@@ -1,6 +1,6 @@
 # ERM: Web-Based Form Development Project
 
-This project was built as part of my **Web Based Applications Course (Spring 2025)**. It demonstrates the development of a multi-page web application using ASP.NET Web Forms, C#, Bootstrap, and Microsoft SQL Server.  
+This project was built as part of my **Web Based Applications Course (Spring 2025)**. It demonstrates the development of a multi-page web application using ASP.NET Web Forms, C#, CSS, Bootstrap, and Microsoft SQL Server.  
 
 ## 🚀 Live Demo
 Check out the deployed web application here: [**Project Demo**](http://e0750442.elmcsis.com/erm/Registration.aspx) <br/>
@@ -18,7 +18,7 @@ Check out the admin dashboard login page here: [**Login Page**](http://e0750442.
 - SMTP integration via SendGrid for sending confirmation emails to users.
 
 ## 🛠️ Technologies Used
-- **Frontend:** ASP.NET Web Forms, Bootstrap
+- **Frontend:** ASP.NET Web Forms, CSS, Bootstrap
 - **Backend:** C# (ADO.NET)
 - **Database:** Microsoft SQL Server
 - **Email Service:** SendGrid
