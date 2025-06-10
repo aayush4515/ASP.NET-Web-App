@@ -8,8 +8,8 @@ Check out the deployed web application here: [**Project Demo**](http://e0750442.
 ## 📌 Features
 - Multi-page ASP.NET Web Forms application with master pages for consistent layout.
 - Bootstrap styling for responsive design and enhanced user experience.
-- Form validation using ADO.NET, including both client-side and server-side checks.
-- Integration with Microsoft SQL Server for data storage and management, including full CRUD functionality.
+- Form validation using C# backend, including both client-side and server-side checks.
+- Integration with Microsoft SQL Server via ADO.NET for data storage and management, including full CRUD functionality.
 - Secure admin dashboard protected by a login page with username-password authentication and encrypted passwords.
 - SMTP integration via SendGrid for sending confirmation emails to users.
 
