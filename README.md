@@ -7,7 +7,7 @@ Check out the deployed web application here: [**Project Demo**](http://e0750442.
 Check out the admin dashboard login page here: [**Login Page**](http://e0750442.elmcsis.com/ERM/Login.aspx)
 
 > **⚠️ Note:**  
-> This web application was originally connected to a Microsoft SQL Server database hosted by the university. The database has since been deleted following the conclusion of the course, so form submissions may redirect to an error page due to the inactive database connection.
+> This web application was hosted on the university's FTP server and connected to a Microsoft SQL Server database managed by the course. The database has been deleted following the conclusion of the course, so form submissions may redirect to an error page due to the inactive database connection. Additionally, since the app is hosted on the university's FTP server, it may be taken down in the future, resulting in the app no longer being accessible.
 
 ## 📌 Features
 - Multi-page ASP.NET Web Forms application with master pages for consistent layout.
